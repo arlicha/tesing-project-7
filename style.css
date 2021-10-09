@@ -1,0 +1,15 @@
+.ami {
+    border: 10px double khaki;
+    background-color: palevioletred;
+    color: purple;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.ami img {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
